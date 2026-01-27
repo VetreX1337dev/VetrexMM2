@@ -1,4 +1,4 @@
--- yarhm 1.20	
+-- vetrex hub 1.0 beta
 if not game:IsLoaded() then
 	game:GetService("StarterGui"):SetCore("SendNotification", {
 		Title = "Script loading",
@@ -16,8 +16,7 @@ local Converted = {
 	["_DraggableObject"] = Instance.new("ModuleScript");
 	["_ClickAndHold"] = Instance.new("ModuleScript");
 	["_Spring"] = Instance.new("ModuleScript");
-	["_Init"] = Instance.new("LocalScript");
-	["_Forsaken"] = Instance.new("LocalScript");
+	["_Init"] = Instance.new("LocalScript")
 	["_Murder Mystery 2"] = Instance.new("LocalScript");
 	["_ESPIndicator"] = Instance.new("ModuleScript");
 	["_Bezier"] = Instance.new("ModuleScript");
